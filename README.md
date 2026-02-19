@@ -1,0 +1,2 @@
+# BreakAFriend
+“Break_A_Friend” is a psychological thriller visual novel about a depressed man, his manipulative AI friend Lyra, and the sister trying to save him. Your choices decide who breaks first.
